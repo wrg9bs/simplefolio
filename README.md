@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  My first Gatsby site pracrice following the tutorial. I did this because I wanted to build my personal portfolio site using Gatsby (wanted to explore static site generation platform)
 </h1>
 
 ## 🚀 Quick start
